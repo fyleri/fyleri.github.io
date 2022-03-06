@@ -20,7 +20,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: よしはん！
-  description: "ExampleSite description"
+  description: "Welcome to my website!!!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
